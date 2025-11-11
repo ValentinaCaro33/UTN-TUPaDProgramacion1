@@ -447,8 +447,10 @@ def pedir_opcion():
 
 
 def main():
+    import os
     lista_paises = []
-    ruta_csv = "paises.csv"  
+    ruta_csv = os.path.join(os.path.dirname(__file__), "paises.csv")
+  
 
     # Ejemplos tomados de la consigna mas agregados por nuestro grupo
     # nombre,poblacion,superficie,continente
@@ -456,7 +458,6 @@ def main():
     # Japon,125800000,377975,Asia
     # Brasil,213993437,8515767,America
     # Alemania,83149300,357022,Europa
-    # Inglaterra,56000000,243610,Europa
     # Suiza,8717000,41285,Europa
     # Italia,59550000,301340,Europa
 
