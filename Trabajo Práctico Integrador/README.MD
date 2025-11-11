@@ -85,7 +85,7 @@ El programa utiliza una estructura modular con funciones especializadas para cad
 
 ## 🎥 Enlaces
 - **Video explicativo:** [🔗 Enlace al video](https://youtu.be/CKHOuVgVxBQ?si=P1lqfzrKfjqCsUiD)
-- **Repositorio GitHub:** [🔗 Enlace al repositorio](https://github.com/ValentinaCaro33/UTN-TUPaDProgramacion1/tree/0a06bc3440f8704c02943e9a5627332810926dcc/Trabajo%20Pr%C3%A1ctico%20Integrador)
+- **Repositorio GitHub:** [🔗 Enlace al repositorio](https://github.com/ValentinaCaro33/UTN-TUPaDProgramacion1/tree/1cee0877c8336a7668efca7dab699a3942702c1d/Trabajo%20Pr%C3%A1ctico%20Integrador)
 
 
 ---
